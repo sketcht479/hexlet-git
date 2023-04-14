@@ -1,5 +1,1 @@
-New first string
-git is awesome!
-new line
-experiment with amend
-new data
+Test ignore
